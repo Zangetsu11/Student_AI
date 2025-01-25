@@ -60,7 +60,7 @@ The project consists of the following main components:
     python Data_viz.py
     ```
 
-   This will display various plots analyzing the student performance.
+   This will display various plots analyzing the student performance. In the visualizations folder, check for some sample graphs
 
 ### AI-Based Analysis and Suggestions
 
@@ -71,3 +71,9 @@ The project consists of the following main components:
     ```
 
    This will print the AI-generated insights and improvement plan to the console.
+
+
+### Documentation
+
+The word Document file consists of thought process and design.
+
