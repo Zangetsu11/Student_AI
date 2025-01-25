@@ -1,0 +1,8 @@
+requests
+pandas
+json
+flatten_json
+matplotlib
+seaborn
+langchain_groq
+langchain_core
