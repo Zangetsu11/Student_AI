@@ -2,8 +2,7 @@
 
 ## Overview
 
-Student_AI is a Python-based project designed to fetch, process, and analyze quiz data from various APIs. It includes functionalities for data cleaning, visualization, and generating student personas based on quiz performance. Additionally, it leverages AI models to provide insights and improvement suggestions for students based on their quiz results.
-
+Student_AI is a Python-based project designed to fetch, process, and analyze quiz data from various APIs. It includes functionalities for data cleaning, visualization, and generating student personas based on quiz performance. AI Evaluations
 ## Project Structure
 
 The project consists of the following main components:
